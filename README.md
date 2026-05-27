@@ -1,7 +1,3 @@
-Aqui está uma sugestão de `README.md` estruturado e direto ao ponto para acompanhar o seu arquivo de exercícios. Você pode copiar o texto abaixo e salvar em um arquivo chamado `README.md` no seu repositório.
-
----
-
 # 🐍 Hora da Prática - Python para Data Science
 
 Este repositório contém as resoluções dos desafios práticos propostos no material "Hora da Prática", referente ao curso de **Python para Data Science** da Escola de Dados da Alura.
